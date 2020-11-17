@@ -1,0 +1,56 @@
+header	{
+	text-align: center;
+	padding: 10px;
+	background-color: gray;
+	color: white;
+	font-size: 40px;
+	font-family: monospace;
+	margin-bottom: 10px;
+}
+.task {
+	overflow: hidden;
+	padding: 10px;
+	color: gray;	
+	font-size: 40px;
+
+}
+.task .input-tsak {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.heading {
+	float: left;
+}
+.input-tsak {
+	float: left;
+}
+.btn {
+	float: left;
+}
+#table-design {
+	width: 80%;
+	margin:auto;
+	border: 1px solid gray;
+	padding-top:10px; 
+	border-collapse: collapse;
+	text-align: center;
+}
+#table-design  tr  td {
+	border: 1px solid gray;
+	padding: 10px;
+}
+#table-design  tr  th {
+	border: 1px solid gray;
+	padding: 10px;
+}
+.inp-task {
+	size: 30px;
+	font-size: 30px;
+	color: gray;
+}
+.task-btn {
+	padding: 10px 30px;
+	background-color: gray;
+	color: white;
+	font-size: 30px;
+}
